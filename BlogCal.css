@@ -48,6 +48,20 @@ a {
 .weekcal a:hover {
 	color: white;
 }
-	
-
+.febcal a:hover {
+	color: white;
+}
+.marcal a:hover {
+	color: white;
+}
+.home {
+	padding-top: 20px;
+	text-align: center;
+	font-family: Verdana;
+	font-size: 30px;
+	color: gray;
+}
+p:hover {
+	color: white;
+}
 	
