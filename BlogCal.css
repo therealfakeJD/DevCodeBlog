@@ -1,0 +1,41 @@
+h1 {
+	color: gray;
+	font-family: sans-serif;
+	text-align: center;
+}
+body {
+	background-image: url("https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSr-YDHnW6pmq-SRYGsZezUDy1whH614BYmUDgtE1B81PexRiNOEg")
+}
+.weekcal {
+	color: white;
+	
+}	
+.jancal {
+	color: white;
+}
+h2 {
+	color: gray;
+	text-align: center;
+}
+table {
+	border: solid white;
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+	width: 500px;
+	height: 400px;
+
+}
+td {
+	border: solid white;
+}
+.febcal {
+	color: white;
+}
+.marcal { 
+	color: white;
+}
+.weekcal table {
+	height: 100px;
+}
+	
