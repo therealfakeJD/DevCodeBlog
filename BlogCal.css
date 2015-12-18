@@ -38,4 +38,16 @@ td {
 .weekcal table {
 	height: 100px;
 }
+
+.jancal a:hover {
+	color: white;
+}
+a { 
+	color: gray
+}
+.weekcal a:hover {
+	color: white;
+}
+	
+
 	
