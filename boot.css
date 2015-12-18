@@ -1,0 +1,93 @@
+h1 {
+	z-index: 10;
+	background-color: gray;
+	text-align: center;
+	position: relative;
+	margin: auto;
+	font-family: Verdana;
+}
+.menu	{ 
+	display: block;
+	color: white;
+	text-align: center;
+	background-color: gray;
+}
+#box1 {
+	background-color: gray;
+	width: 290px;
+	height: 100px;
+	border: solid black;
+	position: relative;
+	top: 10px;
+	display: inline-block;
+	left: 20px;
+	text-align: center;
+	font-family: sans-serif;
+	-webkit-box-shadow: 1px 0px 30px 0px rgba(51, 50, 50, 1);
+	padding-top: 50px;
+	font-size: 40px;
+	
+}
+#box2 {
+	background-color: gray;
+	position: relative;
+	left: 125px;
+	display: inline-block;
+	top: 10px;
+	border: solid black;
+	width: 290px;
+	height: 100px;
+	text-align: center;
+	-webkit-box-shadow: 1px 0px 30px 0px rgba(51, 50, 50, 1);
+	padding-top: 50px;
+	font-size: 40px;
+	
+}
+#box3 {
+	background-color: gray;
+	position: relative;
+	left: 200px;
+	display: inline-block;
+	top: 10px;
+	border: solid black;
+	width: 290px;
+	height: 100px;
+	text-align: center;
+	-webkit-box-shadow: 1px 0px 30px 0px rgba(51, 50, 50, 1);
+	padding-top: 50px;
+	font-size: 40px;
+}
+#box4 {
+	background-color: gray;
+	position: relative;
+	left: 300px;
+	display: inline-block;
+	top: 10px;
+	border: solid black;
+	width: 290px;
+	height: 100px;
+	text-align: center;
+	-webkit-box-shadow: 1px 0px 30px 0px rgba(51, 50, 50, 1);
+	padding-top: 50px;
+	font-size: 40px;
+}
+body {
+	background-image: url("http://www.digitalrevolutions.biz/wp-content/uploads/2009/07/blue_line_background.jpg");
+}
+a  {
+	color: white;
+	text-decoration: none;
+}
+a:hover {
+	color: black;
+}
+img {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 400px;
+	border: solid gray 20px;
+	margin-top: 10px;
+	-webkit-box-shadow: 1px 0px 30px 0px rgba(51, 50, 50, 1);
+}
+
